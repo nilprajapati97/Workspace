@@ -1,0 +1,12 @@
+[submodule "TCP_IP"]
+	path = TCP_IP
+	url = https://github.com/nilprajapati97/TCP_IP.git
+[submodule "CPP"]
+	path = CPP
+	url = https://github.com/nilprajapati97/CPP.git
+[submodule "C"]
+	path = C
+	url = https://github.com/nilprajapati97/C.git
+[submodule "LSP"]
+	path = LSP
+	url = https://github.com/nilprajapati97/LSP.git
