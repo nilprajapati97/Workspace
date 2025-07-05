@@ -1,0 +1,14 @@
+🧠 Tip: Topics to Prepare for U-Boot Interviews
+Bootloader memory layout
+
+U-Boot environment backup/recovery
+
+Device Tree in U-Boot vs Linux
+
+Secure boot + trusted firmware
+
+Peripheral bring-up from U-Boot (UART, I2C, SPI, GPIO)
+
+Booting via TFTP/NFS/USB
+
+Flash layout and partitioning (MTD, UBI, DFU)
